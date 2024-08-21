@@ -6,7 +6,7 @@ Imagine this project as a superhero fighting against fake news, the villain of o
 
 In today's world, **fake news** is like a big problem we all face. It's like a bunch of lies mixed with truth, and it's hard to tell them apart. So, this project is like our hero, working hard behind the scenes to help us know what's real and what's fake.
 
-Inside this project, there's a lot of cool stuff going on. We're talking about sorting through **tons of information**, training our superhero to be really good at spotting fake news, and then giving it a simple tool to help us out.
+Inside this project, there's a lot of cool stuff going on. I'm talking about sorting through **tons of information**, training our superhero to be really good at spotting fake news, and then giving it a simple tool to help us out.
 
 So, come join me on this adventure as we fight against fake news together. With your support, we can make sure the truth always wins!
 
@@ -24,9 +24,6 @@ So, come join me on this adventure as we fight against fake news together. With 
 
 To classify news articles as real or fake using the trained model, run the `predict.py` script. You can provide input data as text or use the provided test data.
 
-### Contributing
-
-Contributions to this project are welcome! If you have ideas for improvements, new features, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
 
 
